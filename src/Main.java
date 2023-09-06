@@ -25,5 +25,6 @@ public class Main {
         x = scanner.nextInt();
         b = isPalindrome(x);
         System.out.println(b);
+        //test
     }
 }
